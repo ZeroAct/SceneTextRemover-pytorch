@@ -23,8 +23,8 @@ def preprocess_image(img, target_shape: tuple):
     return img
 
 def postprocess_image(img):
-    # img = img * 255
-    img = (img - img.min()) / (img.max() - img.min()) * 255
+    img = img * 255
+    img = np.clip(img, 0, 255)
     return img.astype(np.uint8)
 
 class CustomDataset(Dataset):

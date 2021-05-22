@@ -104,7 +104,7 @@ if __name__ == "__main__":
     print(f"Training start from epoch {initial_epoch}")
     
     # Train Setting
-    model_optim = Adam(model.parameters(), 0.0001)
+    model_optim = Adam(model.parameters(), 0.0001, (0.5, 0.9))
     discrim_optim = Adam(model.discrim.parameters(), 0.0004)
     
     ### Train
