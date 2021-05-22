@@ -92,14 +92,14 @@ From the left
 `I`, `Itegt`, `Ite`, `Ite_`, `Msgt`, `Ms`, `Ms_`
 
 * Epoch 2
-  ![](./doc/epoch1.png)
+  ![](./doc/epoch1.PNG)
 
 * Epoch 5
-  ![](./doc/epoch5.png)
+  ![](./doc/epoch5.PNG)
 * Epoch 10
-  ![](./doc/epoch10.png)
+  ![](./doc/epoch10.PNG)
 * Epoch 30
-  ![](./doc/epoch30.png)
+  ![](./doc/epoch30.PNG)
 
 These are not good enough for real task. I think the reason is lack of dataset and simplicity. 
 But, it was a good experience for me to implement the paper.
