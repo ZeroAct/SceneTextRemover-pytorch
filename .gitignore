@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # etc
-.png
-.jpg
-.pth
+*.png
+*.jpg
+*.pth
