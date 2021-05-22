@@ -18,7 +18,7 @@ $ pip install -r requirements.txt
 
 ![model architecture](./doc/model.png)
 
- This model has u-net like sub modules. 
+ This model has u-net sub modules. 
 `Gd` detects text stroke image `Ms` with `I` and `M`. `G'd` detects more precise text stroke `M's`.
 Similarly,  `Gr` generates text erased image `Ite`, and `G'r` generates more precise output `I'te`.
 
