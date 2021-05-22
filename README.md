@@ -91,14 +91,13 @@ python train.py
 From the left
 `I`, `Itegt`, `Ite`, `Ite_`, `Msgt`, `Ms`, `Ms_`
 
-* Epoch 2
+* Epoch 2<br>
   ![](./doc/epoch1.PNG)
-
-* Epoch 5
+* Epoch 5<br>
   ![](./doc/epoch5.PNG)
-* Epoch 10
+* Epoch 10<br>
   ![](./doc/epoch10.PNG)
-* Epoch 30
+* Epoch 30<br>
   ![](./doc/epoch30.PNG)
 
 These are not good enough for real task. I think the reason is lack of dataset and simplicity. 
