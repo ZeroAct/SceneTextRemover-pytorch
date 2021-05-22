@@ -1,6 +1,6 @@
 # Scene Text Remover Pytorch Implementation
 
-This is a minimal implementation of [Scene text removal via cascaded text storke detection and erasing](https://arxiv.org/pdf/2011.09768.pdf). This   github repository is for studying on image in-painting for scene text erasing. Thank you :)
+This is a minimal implementation of [Scene text removal via cascaded text stroke detection and erasing](https://arxiv.org/pdf/2011.09768.pdf). This   github repository is for studying on image in-painting for scene text erasing. Thank you :)
 
 
 
