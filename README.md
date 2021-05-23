@@ -28,14 +28,14 @@ Similarly,  `Gr` generates text erased image `Ite`, and `G'r` generates more pre
 
 Not to be confused, I renamed the names.
 
-`I` : Input Image (with text)
-`Mm` : Text area mask (`M` in the model)
-`Ms` : Text stroke mask; output of `Gd`
-`Ms_` : Text stroke mask; output of `G'd`
-`Msgt` : Text stroke mask ; ground truth
-`Ite` : Text erased image; output of `Gr`
-`Ite_` : Text erased image; output of `G'r`
-`Itegt`: Text erased image; ground truth
+`I` : Input Image (with text)<br>
+`Mm` : Text area mask (`M` in the model)<br>
+`Ms` : Text stroke mask; output of `Gd`<br>
+`Ms_` : Text stroke mask; output of `G'd`<br>
+`Msgt` : Text stroke mask ; ground truth<br>
+`Ite` : Text erased image; output of `Gr`<br>
+`Ite_` : Text erased image; output of `G'r`<br>
+`Itegt`: Text erased image; ground truth<br>
 
 
 
