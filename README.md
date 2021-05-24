@@ -99,6 +99,10 @@ From the left
   ![](./doc/epoch10.PNG)
 * Epoch 30<br>
   ![](./doc/epoch30.PNG)
+* Epoch 50<br>
+  ![](./doc/epoch50.PNG)
+* Epoch 120<br>
+  ![](./doc/epoch120.PNG)
 
 These are not good enough for real task. I think the reason is lack of dataset and simplicity. 
 But, it was a good experience for me to implement the paper.
